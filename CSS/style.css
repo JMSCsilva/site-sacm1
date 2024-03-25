@@ -1,0 +1,74 @@
+main{
+    margin:60px;
+}
+
+
+
+#frase-inicio{
+    font-family: "Merienda",'serif'; 
+}
+
+
+
+.frase1{
+    font-size: 40px;
+}
+
+
+
+.img_1{
+    max-width: 50px;
+}
+
+.paragrafo{
+    font-size: 25px;
+    font-family: "Merienda",'serif';
+    position: relative;
+    right: 300px;
+}
+
+
+
+
+.login{
+    max-width: 30px 
+}
+
+
+
+.numero{
+    font-size: 300px;
+    color: brown;
+    position: relative;
+    bottom: 60px;
+}
+
+
+.table{
+    border: 0.5px solid #d3d3d3;
+}
+
+.rodape{
+    padding-top:135px;
+    text-align: center;
+
+
+}
+
+
+
+
+#barra-inicio{
+    background-color: #7fffd4;
+    border: 0.5px solid #d3d3d3;
+    
+ 
+
+
+}
+
+#barra2{
+
+box-shadow: 0 3px 15px #00000029;
+margin-top: -10px;
+}
